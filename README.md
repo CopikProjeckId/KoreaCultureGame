@@ -1,2 +1,2 @@
 # KoreaCultureGame
-gitBook / Contract
+gitBook / contracts
