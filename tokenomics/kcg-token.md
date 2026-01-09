@@ -47,13 +47,13 @@ Percentages are based on the fixed **500,000,000,000 KCG** max supply.
 
 | No | Category          | Tokens (KCG)        | % of Supply | Wallet Address                               |
 | -- | ----------------- | ------------------- | ----------- | -------------------------------------------- |
-| 1  | Reserve           | 122,700,000,000     | 24.54%      | `0xc0cfcfa9f8176e1c869c959d6fe0fddd7b3bddf3` |
-| 2  | Ecosystem         | 100,000,000,000     | 20.00%      | `0x9f9f4bc5f6fad1931e7a305e6c9e7fcb0f897a20` |
-| 3  | Development       | 75,000,000,000      | 15.00%      | `0x14041824438fce633eafe1396540a95f537ed787` |
-| 4  | Marketing         | 75,000,000,000      | 15.00%      | `0xc4d80afbe4cfdd42843c1f5a0f6a3381c8836fe6` |
-| 5  | Team              | 52,950,000,000      | 10.59%      | `0x6cf76381d37913a95e4ce13dd8dacb0c04396fa9` |
-| 6  | Private Investors | 46,000,000,000      | 9.20%       | `0xfad6046ed78f75f9a5fdd122152dc422f31e4ace` |
-| 7  | Advisor           | 28,350,000,000      | 5.67%       | `0x0cc8cefa5567c52f8c0e975141a5117614b91e14` |
+| 1  | Reserve           | 122,700,000,000     | 24.54%      | `0x8Fe589982619aBE1547B4214823C1EE0e9cb24Ce` |
+| 2  | Ecosystem         | 100,000,000,000     | 20.00%      | `0x73954E136Ae274466AA785373196A349F82B223B` |
+| 3  | Development       | 75,000,000,000      | 15.00%      | `0xb8C1aE72E1db55dCc45f4D41d39a1207cA8FF2Fa` |
+| 4  | Marketing         | 75,000,000,000      | 15.00%      | `0xF2EF24E1D8D757d537c707be385232A24fbFDa6F` |
+| 5  | Team              | 52,950,000,000      | 10.59%      | `0xcf46eC539110fe4681B907C7d24Da86ddbc838C4` |
+| 6  | Private Investors | 46,000,000,000      | 9.20%       | `0x72755A6A4BaA7816B53cED023FB73618cafF2A09` |
+| 7  | Advisor           | 28,350,000,000      | 5.67%       | `0xb2a7b4Abb1cFC6aD4b06bC21a9617092Fd187f91` |
 |    | **Total**         | **500,000,000,000** | **100.00%** |                                              |
 
 #### 3-2. Vesting Terms by Category
