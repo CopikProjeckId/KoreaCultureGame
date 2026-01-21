@@ -5,20 +5,47 @@ coverY: 0
 
 # 🎮 Korea Culture Game
 
-## 📌 Our Mission
+### UX-first onboarding → Points economy → Security & governance
+
+Korea Culture Game is a UX-first gaming ecosystem designed for seamless **Web2-style onboarding** and transparent **on-chain accountability**.\
+Players can start instantly with familiar flows, earn **points-based rewards**, and interact with KCG’s economy under clearly documented **security and governance controls**.
+
+#### 1) UX-first onboarding (Web2-friendly)
+
+* Start with minimal friction: fast entry, familiar UI patterns, and progressive disclosure of crypto features.
+* Wallet connection is optional at first; advanced on-chain interactions are introduced only when needed.
+
+#### 2) Points-based operation (Reward layer)
+
+* Rewards are managed through a points-based system optimized for gameplay loops (missions, quests, rankings, seasons).
+* Points are designed for stable gameplay economics and measurable engagement, with clearly documented conversion/use rules when applicable.
+
+#### 3) Security & governance (Trust layer)
+
+* Privileged actions and major wallets are governed under a documented security model (e.g., multisig controls, threshold approvals, and purpose-based wallet segregation).
+* Official contract addresses, allocations, and audit mappings are maintained in this repository/GitBook as the single source of truth.
+
+***
+
+### 📌 Mission
 
 **"Reviving classic games, rewarding every play."**
 
-Korea Culture Game brings nostalgic Korean games to life in a modern way, allowing users to play directly on Telegram while earning digital rewards. Our goal is to merge entertainment with blockchain technology, creating a transparent and rewarding gaming ecosystem.
+Korea Culture Game brings nostalgic Korean games to life in a modern way, enabling players to start instantly on familiar channels (e.g., Telegram) while earning digital rewards.\
+Our goal is to merge entertainment with blockchain technology, creating a transparent and rewarding gaming ecosystem.
 
-### 🚀 What We Offers
+***
 
-* **Instant Play** – No downloads, just open Telegram and start playing.
+### 🚀 What We Offer
+
+* **Instant Play** – No downloads, just open and start playing.
 * **Classic Games, Modern Twist** – Enjoy beloved retro games reimagined for today’s audience.
-* **Play & Earn** – Mine digital coins while having fun.
-* **Secure & Transparent Rewards** – Blockchain-based system ensures fairness and security.
+* **Play & Earn** – Earn digital rewards while having fun.
+* **Secure & Transparent Rewards** – Blockchain-based accountability ensures fairness and security.
 
 Join us and experience the future of gaming, where nostalgia meets innovation!
+
+
 
 
 

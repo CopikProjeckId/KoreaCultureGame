@@ -27,6 +27,10 @@
 
 * [Certik](audits/certik.md)
 
+## Disclosures
+
+* [SMG\_TON](disclosures/smg_ton.md)
+
 ## Social Media
 
 * [🔉 Channel](social-media/channel.md)
