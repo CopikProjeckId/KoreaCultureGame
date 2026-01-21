@@ -11,6 +11,22 @@
 
 * [KCG Token](tokenomics/kcg-token.md)
 
+## ADDRESS
+
+* [MainNet](address/mainnet.md)
+
+## Wallets
+
+* [Multisig](wallets/multisig.md)
+
+## Security
+
+* [Privileged Roles & Governance](security/privileged-roles-and-governance.md)
+
+## Audits
+
+* [Certik](audits/certik.md)
+
 ## Social Media
 
 * [🔉 Channel](social-media/channel.md)
